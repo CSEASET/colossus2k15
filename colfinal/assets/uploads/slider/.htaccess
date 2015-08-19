@@ -1,0 +1,6 @@
+Options +FollowSymLinks -MultiViews
+# Turn mod_rewrite on
+RewriteEngine On
+RewriteBase /
+
+RewriteRule ^(.*\.*)$ /themeclubcube/assets/uploads/compressor.php?img=$2 [L,QSA,NC]
