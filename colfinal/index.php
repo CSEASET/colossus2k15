@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+                                <link rel="stylesheet" type="text/css" media="all" href="plugins/layerslider/css/layerslider.css">
+		<link rel="stylesheet" type="text/css" media="all" href="plugins/colorpicker/colorpicker.css">
+		<link rel="stylesheet" type="text/css" media="all" href="plugins/owl-carousel/owl.carousel.css">
+		<link rel="stylesheet" type="text/css" media="all" href="plugins/owl-carousel/owl.transitions.css">
+		<link rel="stylesheet" type="text/css" media="all" href="plugins/jackbox/css/jackbox.min.css">
+		                                                                                                                                <!DOCTYPE html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
@@ -28,7 +33,7 @@
         <link rel="icon" href="assets/themeclubcube-design/images/favicon.ico" type="image/x-icon" />
         <link rel="shortcut icon" href="assets/themeclubcube-design/images/favicon.ico" type="image/x-icon" />
         
-        
+      		
         <link rel="stylesheet" href="assets/themeclubcube-design/min/styles_1421224182.pack.css" type="text/css" />
 		<script>
 			var designUrl = 'assets/themeclubcube-design/index.php';
@@ -40,8 +45,25 @@
         <!--[if IE]>
             <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
+        <script src="../js/jquery-2.1.0.min.js"></script>
+		<script src="../js/jquery.queryloader2.min.js"></script>
+		<script src="../js/modernizr.js"></script>
+		<script>
+			$('html').addClass('d_none');
+			$(document).ready(function(){
+				$('html').show();
+				$("body").queryLoader2({
+					backgroundColor: '#fff',
+					barColor : '#35eef6',
+					barHeight: 4,
+					percentage:true,
+					deepSearch:true,
+					minimumTime:1000
+				});
+			});
+		</script>                                
 
-		
+        
     </head>
     <body>
 <div class="loader-container" id="loaderContainer">
@@ -77,10 +99,11 @@
 						<li>
                             <a href="about.php">About Us</a>
                         </li>
-                        <li class="active dropdown">
+                        <li class="dropdown">
                             <a href="#" class="dropdown-toggle main-heading-a"  data-toggle="dropdown">Teams<b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li class="first"><li><a href="team.php?t=1" >Website</a></li>
+                                <li class="first"><a href="team.php?t=0" >Core</a></li>
+                                <li><a href="team.php?t=1" >Website</a></li>
                                 <li><a href="team.php?t=2" >Sponsorship</a></li>
                                 <li><a href="team.php?t=3" >Event Management</a></li>
                                 <li><a href="team.php?t=4" >Creative</a></li>
@@ -91,7 +114,7 @@
                                 <li><a href="team.php?t=9" >Publicity</a></li>
                             </ul>
                         </li>
-                        <li class="active dropdown">
+                        <li class="dropdown">
                             <a href="#" class="dropdown-toggle main-heading-a"  data-toggle="dropdown">Events<b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li class="first"><li><a href="events.php?day=1" >DAY 1</a></li>
@@ -124,7 +147,7 @@
 	<div class="rowss">
 		<div class="col-lg-5 col-lg-offset-1 col-md-10 col-md-offset-1 slide-title">
 			<div class="o-h">
-				<div class="slider-heading slider-heading-ttl col-sm-6 col-lg-12">Colossus v5.0</div>
+				<div class="slider-heading slider-heading-ttl col-sm-6 col-lg-12">Colossus <small>v</small>5.0</div>
 				<div class="event-about visible-sm visible-xs visible-md col-sm-6">
 					<time class="date" datetime="2015-10-18 09:00:00">
 						<span class="month">Oct</span>
@@ -181,7 +204,7 @@ Very m</p>
 	<div class="rowss">
 		<div class="col-lg-5 col-lg-offset-1 col-md-10 col-md-offset-1 slide-title">
 			<div class="o-h">
-				<div class="slider-heading slider-heading-ttl col-sm-6 col-lg-12">Colossus v5.0</div>
+				<div class="slider-heading slider-heading-ttl col-sm-6 col-lg-12">Colossus <small>v</small>5.0</div>
 				<div class="event-about visible-sm visible-xs visible-md col-sm-6">
 					<time class="date" datetime="2015-10-18 09:00:00">
 						<span class="month">Oct</span>
@@ -250,7 +273,7 @@ Very m</p>
 	<div class="rowss">
 		<div class="col-lg-5 col-lg-offset-1 col-md-10 col-md-offset-1 slide-title">
 			<div class="o-h">
-				<div class="slider-heading slider-heading-ttl col-sm-6 col-lg-12">Colossus v5.0</div>
+				<div class="slider-heading slider-heading-ttl col-sm-6 col-lg-12">Colossus <small>v</small>5.0</div>
 				<div class="event-about visible-sm visible-xs visible-md col-sm-6">
 					<time class="date" datetime="2015-10-18 09:00:00">
 						<span class="month">Oct</span>
@@ -548,6 +571,13 @@ Very m</p>
 		</div>
 	</div>
 </section>
+
+
+			
+
+			
+
+
 <div class="partners">
 	<div class="container">
 		<div class="row partners-img">
@@ -659,3 +689,9 @@ Very m</p>
 <script type="text/javascript" src="assets/components/molt/js/deferredfunctions.pack.js"></script>
 </body>
 </html>
+
+                            
+                            
+                            
+                            
+                            

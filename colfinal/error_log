@@ -1,0 +1,441 @@
+[19-Aug-2015 09:42:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 10:19:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 10:19:15] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 10:21:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 11:21:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 10:22:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 10:23:15] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 10:23:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 10:24:07] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 10:24:19] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 10:24:19] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 10:24:19] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 10:24:19] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 202
+[19-Aug-2015 10:24:19] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 204
+[19-Aug-2015 10:24:55] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 10:25:08] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 10:25:08] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 10:25:08] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 10:25:08] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 202
+[19-Aug-2015 10:25:08] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 204
+[19-Aug-2015 10:25:23] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 10:25:23] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 10:25:23] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 10:25:23] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 202
+[19-Aug-2015 10:25:23] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 204
+[19-Aug-2015 10:26:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 10:26:26] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 10:26:27] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 10:26:27] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 10:26:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 10:26:27] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 202
+[19-Aug-2015 10:26:27] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 204
+[19-Aug-2015 10:32:11] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 10:32:11] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 10:32:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 10:32:11] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 202
+[19-Aug-2015 10:32:11] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 204
+[19-Aug-2015 12:10:09] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 12:10:10] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 12:10:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 12:10:10] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 202
+[19-Aug-2015 12:10:10] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 204
+[19-Aug-2015 11:45:46] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 11:45:46] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 11:45:46] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 11:45:46] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 202
+[19-Aug-2015 11:45:46] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 204
+[19-Aug-2015 11:45:51] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 11:46:14] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 11:46:14] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 11:46:14] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 11:46:14] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 202
+[19-Aug-2015 11:46:14] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 204
+[19-Aug-2015 12:47:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 11:47:54] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 12:21:57] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 12:21:57] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 12:21:57] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 12:21:57] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 202
+[19-Aug-2015 12:21:57] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 204
+[19-Aug-2015 12:22:10] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 12:22:10] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 12:22:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 12:22:10] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 202
+[19-Aug-2015 12:22:10] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 204
+[19-Aug-2015 12:22:22] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 12:22:22] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 12:22:22] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/vijayant/public_html/colfinal/events.php on line 192
+[19-Aug-2015 12:22:22] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 202
+[19-Aug-2015 12:22:22] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 204
+[19-Aug-2015 12:22:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 12:23:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 12:23:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[19-Aug-2015 12:40:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[20-Aug-2015 09:12:16] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[20-Aug-2015 09:36:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[20-Aug-2015 09:36:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[20-Aug-2015 09:38:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[20-Aug-2015 09:42:59] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[20-Aug-2015 18:54:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[20-Aug-2015 09:54:55] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[20-Aug-2015 19:06:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[20-Aug-2015 10:06:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[20-Aug-2015 10:07:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[20-Aug-2015 10:07:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home1/vijayant/public_html/colfinal/assets/php/connectionLocal.php on line 7
+[20-Aug-2015 10:07:22] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[20-Aug-2015 10:07:22] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[20-Aug-2015 10:07:22] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/vijayant/public_html/colfinal/events.php on line 192
+[20-Aug-2015 10:07:22] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 202
+[20-Aug-2015 10:07:22] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 204
+[20-Aug-2015 10:07:39] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[20-Aug-2015 10:07:39] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[20-Aug-2015 10:07:39] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/vijayant/public_html/colfinal/events.php on line 192
+[20-Aug-2015 10:07:39] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 202
+[20-Aug-2015 10:07:39] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 204
+[20-Aug-2015 10:07:41] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[20-Aug-2015 10:07:41] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[20-Aug-2015 10:07:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/vijayant/public_html/colfinal/events.php on line 192
+[20-Aug-2015 10:07:41] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 202
+[20-Aug-2015 10:07:41] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 204
+[20-Aug-2015 10:07:45] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[20-Aug-2015 10:07:45] PHP Warning:  include(../assets/php/connectionLocal.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/vijayant/public_html/colfinal/events.php on line 192
+[20-Aug-2015 10:07:45] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/vijayant/public_html/colfinal/events.php on line 192
+[20-Aug-2015 10:07:45] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 202
+[20-Aug-2015 10:07:45] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home1/vijayant/public_html/colfinal/events.php on line 204
+[20-Aug-2015 18:31:26 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 18:47:42 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 18:47:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/colossus/public_html/colossus15.com/colfinal/assets/php/connectionLocal.php on line 7
+[20-Aug-2015 18:55:28 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 18:55:28 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/colossus/public_html/colossus15.com/colfinal/assets/php/connectionLocal.php on line 7
+[20-Aug-2015 18:55:46 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 18:55:46 UTC] PHP Warning:  mysql_connect(): Access denied for user 'vijayant_col'@'localhost' (using password: YES) in /home/colossus/public_html/colossus15.com/colfinal/assets/php/connection.php on line 7
+[20-Aug-2015 18:56:30 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 18:57:06 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 18:57:26 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 18:58:04 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 18:58:58 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 18:59:15 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 18:59:17 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 18:59:17 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:02:33 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:03:15 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:03:26 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:03:26 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:05:45 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:06:05 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:06:05 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 192
+[20-Aug-2015 19:06:05 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 192
+[20-Aug-2015 19:06:05 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 192
+[20-Aug-2015 19:06:05 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 202
+[20-Aug-2015 19:06:05 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 204
+[20-Aug-2015 19:06:29 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:08:50 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:24:41 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:25:05 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:25:24 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:26:02 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:26:12 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:26:19 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:26:27 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:26:27 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:26:27 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:26:27 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:26:27 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[20-Aug-2015 19:26:27 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[20-Aug-2015 19:26:35 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:26:42 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:26:48 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:26:59 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:27:35 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:28:14 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:30:03 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:31:00 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:31:35 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:31:42 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:32:08 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:33:10 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:33:20 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:33:30 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:34:02 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:34:08 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:34:33 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:34:39 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:34:43 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:34:49 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:34:57 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:35:04 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:35:05 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:35:27 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:35:35 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:35:45 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:35:50 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:35:53 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:35:57 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:36:01 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:36:01 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:36:01 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:36:01 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:36:01 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[20-Aug-2015 19:36:01 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[20-Aug-2015 19:36:16 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:36:21 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:36:21 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:36:21 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:36:21 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:36:21 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[20-Aug-2015 19:36:21 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[20-Aug-2015 19:36:25 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:36:25 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:36:25 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:36:25 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:36:25 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[20-Aug-2015 19:36:25 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[20-Aug-2015 19:36:31 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:36:32 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:36:41 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:36:51 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:36:59 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:37:04 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:37:53 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:38:00 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:38:11 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:38:31 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:38:31 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:38:31 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:38:31 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:38:31 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[20-Aug-2015 19:38:31 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[20-Aug-2015 19:38:57 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:39:18 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:39:19 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:39:30 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:39:37 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:39:41 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:39:41 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:39:41 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:39:41 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:39:41 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[20-Aug-2015 19:39:41 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[20-Aug-2015 19:40:04 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:40:04 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:40:04 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:40:04 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:40:04 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[20-Aug-2015 19:40:04 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[20-Aug-2015 19:40:08 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:40:08 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:40:08 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:40:08 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:40:08 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[20-Aug-2015 19:40:08 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[20-Aug-2015 19:40:13 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:40:13 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:40:13 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:40:13 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:40:13 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[20-Aug-2015 19:40:13 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[20-Aug-2015 19:40:18 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:40:23 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:40:36 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:40:42 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:40:43 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:40:50 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:40:50 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:40:56 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:41:02 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:41:22 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:43:49 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:54:24 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:54:24 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:54:24 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:54:24 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:54:24 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[20-Aug-2015 19:54:24 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[20-Aug-2015 19:55:47 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:55:47 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:55:47 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:55:47 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[20-Aug-2015 19:55:47 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[20-Aug-2015 19:55:47 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[20-Aug-2015 19:55:52 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 19:58:16 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 20:10:12 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 20:10:50 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 20:10:59 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Aug-2015 20:11:48 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 02:42:21 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 15:14:25 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 15:14:35 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 17:33:21 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 17:39:30 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 17:58:26 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:03:11 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:03:20 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:03:22 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:03:32 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:03:42 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:03:48 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:04:04 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:04:04 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[21-Aug-2015 18:04:04 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[21-Aug-2015 18:04:04 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[21-Aug-2015 18:04:04 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[21-Aug-2015 18:04:04 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[21-Aug-2015 18:04:09 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:04:09 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[21-Aug-2015 18:04:09 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[21-Aug-2015 18:04:09 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[21-Aug-2015 18:04:09 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[21-Aug-2015 18:04:09 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[21-Aug-2015 18:04:36 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:04:51 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:05:13 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:05:39 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:05:47 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:05:54 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:05:54 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[21-Aug-2015 18:05:54 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[21-Aug-2015 18:05:54 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[21-Aug-2015 18:05:54 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[21-Aug-2015 18:05:54 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[21-Aug-2015 18:06:08 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:06:08 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[21-Aug-2015 18:06:08 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[21-Aug-2015 18:06:08 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[21-Aug-2015 18:06:08 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[21-Aug-2015 18:06:08 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[21-Aug-2015 18:06:16 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:06:28 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:06:43 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:06:52 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:07:04 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 18:09:15 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 19:11:22 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 19:15:28 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 19:15:37 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 19:16:46 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 19:17:33 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 19:17:35 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 19:17:55 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 19:17:56 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 19:18:21 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 19:19:52 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 19:24:43 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 19:24:48 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Aug-2015 19:24:53 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 06:55:04 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 06:55:51 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 06:56:35 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 06:56:55 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 06:57:07 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 09:10:05 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 09:10:31 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 09:11:29 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 09:13:21 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 09:13:27 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 10:46:40 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 10:48:08 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 11:00:00 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 11:00:05 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 11:03:31 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 11:04:42 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 11:04:48 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 11:09:58 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 14:44:26 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 18:48:34 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 18:49:19 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 18:49:24 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 18:49:29 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 18:49:29 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[22-Aug-2015 18:49:29 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[22-Aug-2015 18:49:29 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[22-Aug-2015 18:49:29 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[22-Aug-2015 18:49:29 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[22-Aug-2015 18:49:37 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 18:49:37 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[22-Aug-2015 18:49:37 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[22-Aug-2015 18:49:37 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[22-Aug-2015 18:49:37 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[22-Aug-2015 18:49:37 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[22-Aug-2015 18:49:40 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 18:49:40 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[22-Aug-2015 18:49:40 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[22-Aug-2015 18:49:40 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[22-Aug-2015 18:49:40 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[22-Aug-2015 18:49:40 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[22-Aug-2015 18:49:44 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Aug-2015 18:49:44 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[22-Aug-2015 18:49:44 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[22-Aug-2015 18:49:44 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[22-Aug-2015 18:49:44 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[22-Aug-2015 18:49:44 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[23-Aug-2015 03:13:38 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 08:39:29 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 08:39:49 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 08:40:24 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 08:40:24 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[23-Aug-2015 08:40:24 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[23-Aug-2015 08:40:24 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[23-Aug-2015 08:40:24 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[23-Aug-2015 08:40:24 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[23-Aug-2015 09:06:06 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 09:06:14 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 11:10:21 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 11:10:29 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 11:11:57 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 11:12:51 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 11:13:39 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 11:14:07 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 11:18:39 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 11:18:51 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 11:22:44 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 11:22:51 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 11:22:51 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[23-Aug-2015 11:22:51 UTC] PHP Warning:  include(../assets/php/connectionLocal.php): failed to open stream: No such file or directory in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[23-Aug-2015 11:22:51 UTC] PHP Warning:  include(): Failed opening '../assets/php/connectionLocal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 193
+[23-Aug-2015 11:22:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 203
+[23-Aug-2015 11:22:51 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/colossus/public_html/colossus15.com/colfinal/events.php on line 205
+[23-Aug-2015 19:11:25 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 19:12:18 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 19:20:00 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 19:20:12 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 19:20:12 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 19:20:44 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 19:27:08 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 19:37:45 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 19:41:02 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 19:41:21 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 19:47:13 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 19:52:31 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 19:57:07 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 19:57:51 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 20:00:02 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 20:12:51 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[23-Aug-2015 20:22:18 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 09:48:39 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 10:05:59 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 10:06:11 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 10:11:54 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 10:13:09 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 10:13:14 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 10:13:37 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 10:23:52 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 10:26:31 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 10:48:07 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 10:48:35 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 10:49:05 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 10:50:36 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 11:06:58 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 12:03:26 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 12:06:07 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 13:14:12 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 13:23:23 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 13:23:28 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 14:26:12 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 14:38:31 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 14:56:46 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 16:32:47 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 16:33:29 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 16:34:18 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Aug-2015 16:53:35 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0

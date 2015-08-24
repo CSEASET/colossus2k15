@@ -1,4 +1,4 @@
-<?php ?>
+                                <?php ?>
 <!DOCTYPE html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
@@ -104,7 +104,8 @@
                         <li class="active dropdown">
                             <a href="#" class="dropdown-toggle main-heading-a"  data-toggle="dropdown">Teams<b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li class="first"><li><a href="team.php?t=1" >Website</a></li>
+                                <li class="first"><a href="team.php?t=0" >Core</a></li>
+                                <li><a href="team.php?t=1" >Website</a></li>
                                 <li><a href="team.php?t=2" >Sponsorship</a></li>
                                 <li><a href="team.php?t=3" >Event Management</a></li>
                                 <li><a href="team.php?t=4" >Creative</a></li>
@@ -115,7 +116,7 @@
                                 <li><a href="team.php?t=9" >Publicity</a></li>
                             </ul>
                         </li>
-                        <li class="active dropdown">
+                        <li class="dropdown">
                             <a href="#" class="dropdown-toggle main-heading-a"  data-toggle="dropdown">Events<b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li class="first"><li><a href="events.php?day=1" >DAY 1</a></li>
@@ -176,12 +177,12 @@
 
 <?php
 
-include "./assets/php/connectionLocal.php";
+include "./assets/php/connection.php";
 global $dbhandle;
 $teamIndex = (int)(isset($_REQUEST['t']) && strlen($_REQUEST['t']) == 1)? $_REQUEST['t']:1;
 
 $teams = array(
-    '',
+    'Core',
     'Website',
     'Sponsorship',
     'Event Management',
@@ -367,3 +368,5 @@ HTML;
 <script type="text/javascript" src="./assets/components/molt/js/deferredfunctions.pack.js"></script>
 </body>
 </html>
+
+                            
