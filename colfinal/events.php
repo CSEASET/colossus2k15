@@ -192,7 +192,7 @@
 
             include "./assets/php/connection.php";
             global $dbhandle;
-            $day = (int)(isset($_REQUEST['day']) && strlen($_REQUEST['day']) == 1)? $_REQUEST['day']:5;
+            $day = (int)(isset($_REQUEST['day']) && strlen($_REQUEST['day']) < 6)? $_REQUEST['day']:5;
 
 
             $query  = "SELECT *, SUBSTR(  `description` , 1, 200 )  FROM `events` WHERE `day` = \"$day\"";

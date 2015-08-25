@@ -28,7 +28,7 @@
 
         <link rel="icon" href="assets/themeclubcube-design/images/favicon.ico" type="image/x-icon" />
         <link rel="shortcut icon" href="assets/themeclubcube-design/images/favicon.ico" type="image/x-icon" />
-        
+        <script src='https://www.google.com/recaptcha/api.js'></script>
         
         <link rel="stylesheet" href="assets/themeclubcube-design/min/styles_1421224182.pack.css" type="text/css" />
 		<script>
@@ -156,7 +156,7 @@
                             </div>
                             <div class="col-lg-6 contact-block">
                                 <h2>Write to us</h2>
-                                <form class="form-horizontal" id="contactForm" action="http://sites.makebecool.com/colossus/ajax/formcontacts" method="POST">
+                                <form class="form-horizontal" id="contactForm" action="./assets/php/contact.php" method="POST">
                                     <div class="form-group">
                                         <div class="col-sm-12">
                                             <input type="text" name="name" class="form-control required" required id="inputName" placeholder="Name:">
@@ -170,6 +170,11 @@
                                     <div class="form-group">
                                         <div class="col-sm-12">
                                             <textarea name="message" class="form-control" rows="3" required id="inputMessage" placeholder="Message:"></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="col-sm-12">
+                                            <div class="g-recaptcha" data-sitekey="6LcYzAsTAAAAAMfvNOUgGvzLtFvzl54OWIr-Dw1h"></div>
                                         </div>
                                     </div>
                                     <div class="form-group">
