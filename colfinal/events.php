@@ -95,7 +95,7 @@
                             </ul>
                         </li>
                         <li class="active dropdown">
-                            <a href="#" class="dropdown-toggle main-heading-a"  data-toggle="dropdown">Events<b class="caret"></b></a>
+                            <a href="events.php" class="dropdown-toggle main-heading-a"  data-toggle="dropdown">Events<b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li class="first"><li><a href="events.php?day=1" >DAY 1</a></li>
                                 <li><a href="events.php?day=2" >DAY 2</a></li>
@@ -161,7 +161,7 @@
 	<div class="tab-custom-line"></div>
 </a>
 
-    <a href="events.php?day=3" class="tab-custom ">
+    <a href="events.php?day=online" class="tab-custom ">
         <div class="dropdown-text-title">
 
             Online
@@ -190,28 +190,36 @@
 
             <?php
 
-            include "../assets/php/connectionLocal.php";
+            include "./assets/php/connection.php";
             global $dbhandle;
             $day = (int)(isset($_REQUEST['day']) && strlen($_REQUEST['day']) == 1)? $_REQUEST['day']:5;
 
 
-            $query  = "SELECT * FROM `events` WHERE `day` = \"$day\"";
+            $query  = "SELECT *, SUBSTR(  `description` , 1, 200 )  FROM `events` WHERE `day` = \"$day\"";
 
             if($day == 5)
-                $query  = "SELECT * FROM `events`;";
+                $query  = "SELECT *, SUBSTR(  `description` , 1, 200 )  FROM `events`;";
 
             $res = mysql_query($query, $dbhandle);
 
             while($row = mysql_fetch_row($res)) {
-                //TODO
+                //print_r($row);
 
-                $name = $row[1];
-                $img = $row[4];
-                $post = $row[3];
-                $fb = $row[5];
-                $mail = $row[6];
-                $tel = $row[7];
+                if($row[10] == '1'){
+                    $day = "<div class=\"day\">17</div><div class=\"week-day\">Sat</div>";
+                } else if($row[10] == '2'){
+                    $day = "<div class=\"day\">18</div><div class=\"week-day\">Sun</div>";
+                } else {
+                    $day = "<div class=\"day\">ON</div><div class=\"week-day\">LINE</div>";
+                }
 
+                $title = $row[1];
+                $description = $row[13];
+                $organiser = $row[3];
+                $mail = $row[4];
+                $tel = $row[5];
+                $img = $row[9];
+                $time = $row[12];
 
                 echo <<<HTML
 
@@ -221,14 +229,13 @@
 	<div class="ticket-event-date">
 		<div class="date-event">
 			<div class="month">Oct</div>
-			<div class="day">17</div>
-			<div class="week-day">Sat</div>
+			$day
 		</div>
 		<div class="line-mg"></div>
 		<div class="date-event last">
-			<div class="month">start</div>
+			<div class="month">starts</div>
 			<div class="day time-ev">
-				09.00
+				$time
 			</div>
 		</div>
 		<div class="ticket-triangle-top"></div>
@@ -236,30 +243,30 @@
 		<div class="rombs"></div>
 	</div>
 	<a href="#" title="Event_Pic" class="ticket-event-img img-contain">
-        <img class="img-responsive img-preload" alt="Event_Pic" title="Event_Pic"
-             data-src=">0:assets\uploads\events\matrix.png"
-             data-src2x=">0:assets\uploads\events\matrix.png"
-             src="assets\uploads\events\matrix.png" width="100%">
+        <img class="img-responsive img-preload" alt="$title" title="$title"
+             data-src=">0:assets/uploads/events/$img"
+             data-src2x=">0:assets/uploads/events/$img"
+             src="assets/uploads/events/$img" width="100%">
 		<div class="ticket-triangle-top"></div>
 		<div class="ticket-triangle-bt"></div>
 		<div class="rombs"></div>
 	</a>
 	<div class="ticket-event-lineup">
-		<h3><a href="#" title="Event_Name">Event 1</a></h3>
+		<h3><a href="#" title="Event_Name">$title</a></h3>
 		<hr>
 		<div class="ticket-line-cont">
-			<div class="ticket-line-up sh" style="width: 344px">
+			<div class="ticket-line-up sh" style="width: 500px">
 				<div class="col-md-2 col-sm-2">About: </div>
 				<div class="col-md-10 col-sm-10 uppercase">
 					<p>
-						<span class="brown-color">Coming Soon</span>
+						<span class="brown-color">$description</span>
 					</p>
 				</div>
 			</div>
 			<div class="ticket-line-up hid">
 				<div class="col-md-2 col-sm-2">Event Organiser Detail: </div>
 				<div class="col-md-10 col-sm-10">
-					<p class="ticket-text">Coming Soon</p>
+					<p class="ticket-text">$organiser<br />$mail<br />$tel<br /></p>
 				</div>
 			</div>
 		</div>
